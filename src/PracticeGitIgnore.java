@@ -16,6 +16,9 @@
             // Concatenate the strings
             String result = str1 + str2;
 
+
+
+
             // Display the concatenated result
             System.out.println("The concatenated string is: ok " + result);
 
