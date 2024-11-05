@@ -13,3 +13,5 @@ Thumbs.db # Windows
 *.docx
 *.info
 /doc.pdf
+*.db
+*.xml
